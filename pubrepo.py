@@ -1,6 +1,6 @@
 
-x = input(" type a number : ")
-y = input (" type another number  : ")
+x = input(" plz type a number : ")
+y = input (" plz type another number  : ")
 
 
 sum = int (x) + int (y)
