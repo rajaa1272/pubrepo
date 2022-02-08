@@ -1,8 +1,8 @@
 
-x = input(" type x  : ")
-y = input ("type y : ")
+a = input(" a : ")
+b = input (" b : ")
 
 
-sum = int (x) + int (y)
+sum = int (a) + int (b)
 
 print("this is the sum", sum)
